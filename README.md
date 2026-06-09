@@ -1,5 +1,6 @@
 # AWS_Certified_Advanced_Networking_Preparation
 AWS Certified Advanced Networking – Specialty (ANS-C01)
+-----------------------------------------------------------------------------------------------------------------------------
 
 Planning for the AWS Certified Advanced Networking – Specialty (ANS-C01) exam, a structured approach helps because the exam covers both AWS networking services and advanced networking concepts.
 Exam Overview
@@ -126,7 +127,12 @@ Exam-Day Tips
 	BGP behavior 
 	DNS routing decisions 
 	Multi-region architectures 
-	Transit Gateway route propagation
+	Transit Gateway route propagation.
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------
 
 The AWS Advanced Networking Specialty exam assumes you already understand networking concepts and tests how AWS services implement them.
